@@ -19,4 +19,4 @@
 14. OOP
 15. 예외처리
 
-* System
+* systemC
